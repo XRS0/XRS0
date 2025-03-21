@@ -1,8 +1,8 @@
 ## Help me 👋
 
-![Alt Text](https://webelement.ru/old_webelement/mailing/images/2016.07.22/1/201607220003.gif)
+![Alt Text](https://webelement.ru/old_webelement/mailing/images/2016.07.22/1/201607220003.gif =100x100)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XRS0&show_icons=true&theme=gotham|100x100)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XRS0&show_icons=true&theme=gotham)
 
 <!--
 **XRS0/XRS0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
