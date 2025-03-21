@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjl3cXh2cHh4Y3pzMDU4NDA4MDI3eWsxdGJrMjFjeDcwbGt1Mm85ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XRS0&show_icons=true&theme=gotham)
 
 <!--
