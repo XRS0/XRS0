@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjl3cXh2cHh4Y3pzMDU4NDA4MDI3eWsxdGJrMjFjeDcwbGt1Mm85ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
+![Alt Text](https://webelement.ru/old_webelement/mailing/images/2016.07.22/1/201607220003.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XRS0&show_icons=true&theme=gotham)
 
