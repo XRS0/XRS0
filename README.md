@@ -3,6 +3,8 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XRS0&show_icons=true&theme=gotham) -->
 
 <img src="https://webelement.ru/old_webelement/mailing/images/2016.07.22/1/201607220003.gif" alt="banana" width="100" height="100" border="0">
+
+[![XRS0's GitHub stats](https://github-readme-stats.vercel.app/api?username=XRS0)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **XRS0/XRS0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
